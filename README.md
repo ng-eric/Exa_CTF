@@ -15,7 +15,7 @@
 ## Important tips:
 
 1. You can solve most of the challenges using these main tools on Advanced Analytics platform:
-	* [Notable lists/Wacthlists](./WhatIs/notable_lists&watchlists.md)
+	* [Notable lists/Watchlists](./WhatIs/notable_lists&watchlists.md)
 	* [User Profile page](./WhatIs/user_profile.md)
 	* [User Timeline](./WhatIs/timeline.md)
 	* [Data Insights](./WhatIs/data_insights.md)
