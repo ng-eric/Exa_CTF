@@ -8,7 +8,7 @@
 
 	![](../Images/register_button.png)
 	
-3. Input username, email & password
+3. Input username, email & password (We have pre-registered for you - please login using your email and provided password)
 
 	![](../Images/form.png)
 
