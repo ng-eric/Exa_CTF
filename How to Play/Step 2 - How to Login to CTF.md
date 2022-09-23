@@ -9,8 +9,8 @@ How to access Advanced Analytics platform:
 ## Note
 > Team 1, Team 2 and Team 3 will be using the Advanced Analytics 1  
 > Team 4 and Team 5 will be using the Advanced Analytics 2  
-
 	![](../Images/aa_button.png)
+
 	
 3. A new tab will open and you will see a login for Advanced Analytics platform. The URL will look like https://ctf-X-aa.exalabs.io/, where X is 1~3.
 
