@@ -4,7 +4,10 @@ How to access Advanced Analytics platform:
 
 	![](../Images/exabeam.png)
 	
-2. On the front page, scroll down and click on 'Advanced Analytics' button.
+2. On the front page, scroll down and click on 'Advanced Analytics' button. 
+[Note]
+Team 1, Team 2 and Team 3 will be using the Advanced Analytics 1
+Team 4 and Team 5 will be using the Advanced Analytics 2
 
 	![](../Images/aa_button.png)
 	
